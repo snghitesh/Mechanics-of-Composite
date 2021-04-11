@@ -1,0 +1,42 @@
+----------------Fibre Properties----------------
+Longitudinal Elastic Modulous in GPa E1 = 230
+Transverse Elastic Modulous in GPa   E2 = 15
+Poisson's Ratio                    nu12 = 0.2
+Shear Modulous in GPa               G12 = 15
+
+----------------Matrix Properties---------------
+Elastic Modulous in GPa               E = 5.35
+Poission's Ratio                     nu = 0.35
+Fibre Volume Fraction in %           vf = 53.2
+Variation of theta from                 = -90
+Variation of theta to                   = 90
+
+----------------No of layers--------------------
+No.of layers in composite     (n_layer) = 8
+
+----------------Orientation of layers-----------
+Laminate 1 orientation in degree theta1 = 0
+Laminate 2 orientation in degree theta2 = 21
+Laminate 3 orientation in degree theta3 = -21
+Laminate 4 orientation in degree theta4 = 90
+Laminate 5 orientation in degree theta5 = 90
+Laminate 6 orientation in degree theta6 = -21
+Laminate 7 orientation in degree theta7 = 21
+Laminate 8 orientation in degree theta8 = 0
+Total Thickness of Composite in mm    t = 1
+
+---------------Forces and Moments---------------
+Force per unit length in x (N/mm)    Nx = 100
+Force per unit length in y (N/mm)    Ny = 0
+Force per unit length in xy (N/mm)  Nxy = 0
+Moment per unit length in x (N)      Mx = 0
+Moment per unit length in y (N)      My = 0
+Moment per unit length in xy (N)    Mxy = 0
+
+---------------Strength Parameter---------------
+Uniaxial Tension in X dir. MPa       XT = 1614
+Uniaxial Tension in Y dir. MPa       YT = 68
+Uniaxial Compression in X dir. MPa   XC = 1304
+Uniaxial Compression in Y dir. MPa   YC = 55
+Shear Strength MPa                    S = 85
+
